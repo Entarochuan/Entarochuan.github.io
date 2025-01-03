@@ -5,7 +5,7 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.jpg
+  overlay_image: /assets/images/header-bg.jpg  # 建议使用一张漂亮的校园或城市风光照片
 ---
 
 <style>
@@ -17,8 +17,12 @@ body {
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5em;
-  font-weight: 500;
+  font-weight: 700;
+  color: #4169E1;  /* 使用蓝色标题，类似参考网站 */
+}
+
+.page__hero--overlay {
+  min-height: 400px;
 }
 
 /* 隐藏底部栏 */
@@ -26,27 +30,38 @@ h1, h2, h3 {
   display: none !important;
 }
 
-/* 如果上面的代码不起作用，可以尝试这个 */
-footer {
-  display: none !important;
+/* 调整链接颜色 */
+a {
+  color: #4169E1;
+  text-decoration: none;
 }
 
-/* 确保页面内容延伸到底部 */
+/* 调整内容区域样式 */
 .page__content {
-  margin-bottom: 0;
-  padding-bottom: 0;
+  margin-top: 2em;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 调整教育经历样式 */
+.notice {
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  padding: 1.5em;
+  margin: 1em 0;
 }
 </style>
 
+# Hello, I am Yichuan Ma.
 
-<!-- # Hello, I am Yichuan Ma. -->
-
-<div style="text-align: justify">
 I am a PhD Candidate at Fudan University. I am currently working as a research intern at InternLM team, Shanghai AI Laboratory. My research interests focus on synthetic data generation and its applications.
-</div>
 
-## Education
-{: .text-center}
+## Email
+
+* mayichuan@pjlab.org.cn
+
+## Education and Experience
 
 {% capture education-text %}
 * **Fudan University** (2024 - Present)  
@@ -54,38 +69,17 @@ I am a PhD Candidate at Fudan University. I am currently working as a research i
   
 * **Shanghai Jiao Tong University** (2020 - 2024)  
   B.E. in Artificial Intelligence
+
+* **InternLM Team, Shanghai AI Laboratory** (2024 - Present)  
+  Research Intern
 {% endcapture %}
 
 <div class="notice">
   {{ education-text | markdownify }}
 </div>
 
-<!-- ## News & Updates
-{: .text-center} -->
+## Research Interests
 
-<!-- {% capture notice-text %}
-* **[2024.03]** Paper accepted at [Conference/Journal Name]
-* **[2024.02]** Presented our work at [Conference Name]
-* **[2024.01]** Started new project on [Project Name]
-{% endcapture %} -->
-
-<!-- <div class="notice--info">
-  {{ notice-text | markdownify }}
-</div> -->
-
-<!-- ## Selected Publications
-{: .text-center} -->
-
-<!-- {% capture notice-text %}
-* **Paper Title 1**  
-  Authors, Conference/Journal, Year  
-  [PDF] [Code] [DOI]
-
-* **Paper Title 2**  
-  Authors, Conference/Journal, Year  
-  [PDF] [Code] [DOI]
-{% endcapture %}
-
-<div class="notice">
-  {{ notice-text | markdownify }}
-</div>  -->
+* Synthetic Data Generation
+* Large Language Models
+* AI Applications 
