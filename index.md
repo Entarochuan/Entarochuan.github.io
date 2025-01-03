@@ -5,13 +5,26 @@ classes: wide
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.jpg  # 稍后添加背景图
+  overlay_image: /assets/images/header-bg.jpg
 ---
+
+<style>
+body {
+  font-family: 'Lato', 'Source Sans Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  font-weight: 300;
+  line-height: 1.8;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+</style>
 
 # Hello, I am Yichuan Ma.
 
 <div style="text-align: justify">
-I am a PhD Candidate at Fudan University. 
+I am a PhD Candidate at Fudan University. I am 
 </div>
 
 ## News & Updates
