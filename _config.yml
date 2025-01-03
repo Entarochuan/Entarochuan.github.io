@@ -1,0 +1,47 @@
+# 基本设置
+title: "/Yichuan Ma"
+subtitle: "Academic Homepage"
+name: "Your Name"
+description: "Personal Academic Website"
+url: "https://Entarochuan.github.io"
+locale: "zh-CN"
+
+# 使用 minimal-mistakes 主题
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air" # 可选: air, contrast, dark, dirt, mint, sunrise
+
+# 添加必要的插件
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# 作者信息
+author:
+  name: "Yichuan Ma"
+  avatar: "/assets/images/bio-photo.jpg"  # 稍后添加照片
+  bio: "PhD Candidate in Computer Science"  # 修改为你的简介
+  location: "Fudan University & Shanghai AI Lab"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mayichuan@fpjlab.org.cn"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=i04v6sgAAAAJ&hl=zh-CN"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Entarochuan"
+
+# 页面默认设置
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide 
