@@ -21,7 +21,8 @@ h1, h2, h3 {
 }
 </style>
 
-# Hello, I am Yichuan Ma.
+
+<!-- # Hello, I am Yichuan Ma. -->
 
 <div style="text-align: justify">
 I am a PhD Candidate at Fudan University. I am currently working as a research intern at InternLM team, Shanghai AI Laboratory. My research interests focus on synthetic data generation and its applications.
