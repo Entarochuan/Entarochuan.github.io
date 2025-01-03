@@ -19,6 +19,22 @@ h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
+
+/* 隐藏底部栏 */
+.page__footer {
+  display: none !important;
+}
+
+/* 如果上面的代码不起作用，可以尝试这个 */
+footer {
+  display: none !important;
+}
+
+/* 确保页面内容延伸到底部 */
+.page__content {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
 </style>
 
 
