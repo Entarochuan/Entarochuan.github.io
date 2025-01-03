@@ -17,7 +17,8 @@ body {
 
 h1, h2, h3 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
+  font-size: 2.5em;
+  font-weight: 500;
 }
 
 /* 隐藏底部栏 */
