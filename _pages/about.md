@@ -38,7 +38,23 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 
 ## First-author Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS, 2025</div><img src='images/paper_imgs/Mixing_Expert_Knowledge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2026</div><img src='images/paper_imgs/Timely_Machine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic](https://arxiv.org/abs/2601.16486)
+
+**Yichuan Ma**, Linyang Li, Yongkang chen, Peiji Li, Xiaozhe Li, Qipeng Guo, Dahua Lin, Kai Chen
+
+<!-- [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&labelColor=f6f6f6&logo=github&logoColor=181717)](https://github.com/Entarochuan/UnitCoder) -->
+
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS, 2025</div><img src='images/paper_imgs/Mixing_Expert_Knowledge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mixing Expert Knowledge: Bring Human Thoughts Back To the Game of Go](https://neurips.cc/virtual/2025/poster/117166)
