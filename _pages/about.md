@@ -23,13 +23,16 @@ Greetings! I'm a second-year Ph.D. student jointly supervised by Fudan Universit
 
 My research interests focus on Large Language Models (LLMs). My work lies in improving LLMs' reasoning capabilities in specialized domains through synthetic data generation and reinforcement learning.
 
+I'm currently looking for collaborations, feel free to contact me.
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
 
-- *2025.09*: &nbsp;🎉🎉 Our paper Mixing Expert Knowledge is accepted by [NIPS 2025](https://neurips.cc/).
-- *2025.08*: &nbsp;🎉🎉 Our paper UnitCoder is accepted by [EMNLP 2025](https://2025.emnlp.org/).
+- *2026.04*: &nbsp;🎉🎉 Our paper **Timely Machine** is accepted by [ACL 2026](https://2026.aclweb.org/).
+- *2025.09*: &nbsp;🎉🎉 Our paper **Mixing Expert Knowledge** is accepted by [NIPS 2025](https://neurips.cc/).
+- *2025.08*: &nbsp;🎉🎉 Our paper **UnitCoder** is accepted by [EMNLP 2025](https://2025.emnlp.org/).
 - *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
 - *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
 - *2025.04*: We release [**InternBootCamp**](https://github.com/InternLM/InternBootcamp), a library of bootcamp environments for training LRMs. 
@@ -38,7 +41,7 @@ My research interests focus on Large Language Models (LLMs). My work lies in imp
 
 ## First-author Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2026</div><img src='images/paper_imgs/Timely_Machine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2026</div><img src='images/paper_imgs/Timely_Machine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic](https://arxiv.org/abs/2601.16486)
