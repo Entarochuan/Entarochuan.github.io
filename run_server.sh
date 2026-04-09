@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+bundle exec jekyll liveserve --no-watch

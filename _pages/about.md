@@ -19,7 +19,7 @@ redirect_from:
 
 <!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat. -->
 
-Greetings! I'm a second-year Ph.D. student jointly supervised by Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/), specializing in artificial intelligence. I earned my bachelor's degree in AI from Shanghai Jiao Tong University. I'm also interning at the [InternLM](https://github.com/InternLM/InternLM) team.
+Greetings! I'm a second-year Ph.D. student jointly supervised by Fudan University and [Shanghai AI Lab](https://www.shlab.org.cn/), specializing in artificial intelligence. I earned my bachelor's degree in AI from Shanghai Jiao Tong University. I'm also interning at the [InternLM](https://github.com/InternLM) team.
 
 My research interests focus on Large Language Models (LLMs). My work lies in improving LLMs' reasoning capabilities in specialized domains through synthetic data generation and reinforcement learning.
 
@@ -31,11 +31,17 @@ I'm currently looking for collaborations, feel free to contact me.
 # 🔥 News
 
 - *2026.04*: &nbsp;🎉🎉 Our paper **Timely Machine** is accepted by [ACL 2026](https://2026.aclweb.org/).
+- *2026.02*: We release [InternS1-Pro](https://huggingface.co/internlm/Intern-S1-Pro), an advanced scientific reasoning model with strong capabilities.
 - *2025.09*: &nbsp;🎉🎉 Our paper **Mixing Expert Knowledge** is accepted by [NIPS 2025](https://neurips.cc/).
 - *2025.08*: &nbsp;🎉🎉 Our paper **UnitCoder** is accepted by [EMNLP 2025](https://2025.emnlp.org/).
-- *2025.07*: We release [InternS1](https://github.com/InternLM/Intern-S1), an advanced open-source multimodal reasoning model.
-- *2025.04*: We release [**InternThinker Go**](https://intern.openxlab.org.cn/internthinker/go-game/), the **first** general LLM with expert level Go performance. 
-- *2025.04*: We release [**InternBootCamp**](https://github.com/InternLM/InternBootcamp), a library of bootcamp environments for training LRMs. 
+<details>
+<summary><strong>More news</strong></summary>
+<ul>
+<li><em>2025.07</em>: We release <a href="https://github.com/InternLM/Intern-S1">InternS1</a>, an advanced open-source multimodal reasoning model.</li>
+<li><em>2025.04</em>: We release <a href="https://intern.openxlab.org.cn/internthinker/go-game/"><strong>InternThinker Go</strong></a>, the <strong>first</strong> general LLM with expert level Go performance.</li>
+<li><em>2025.04</em>: We release <a href="https://github.com/InternLM/InternBootcamp"><strong>InternBootCamp</strong></a>, a library of bootcamp environments for training LRMs.</li>
+</ul>
+</details>
 
 # 📝 Publications 
 
@@ -91,12 +97,25 @@ I'm currently looking for collaborations, feel free to contact me.
 
 ## Co-author Papers
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2026</div><img src='images/InternS1-Pro.png' alt="paper" width="85%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
+](https://arxiv.org/abs/2603.25040v2)
+
+Lei Bai, Zhongrui Cai, Yuhang Cao, Maosong Cao, ... , **Yichuan Ma**, Zihan Ma, Sixuan Mi, Junzhi Ning, ...
+
+<!-- [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&labelColor=f6f6f6&logo=github&logoColor=181717)](https://github.com/FlyingDutchman26/FastMCTS) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv, 2025</div><img src='images/InternS1.png' alt="paper" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Intern-S1: A Scientific Multimodal Foundation Model](https://arxiv.org/abs/2508.15763)
 
-Lei Bai, Zhongrui Cai, Yuhang Cao, Maosong Cao, ... , **Yichuan Ma**, Zihan Ma, Sixuan Mi, Junzhi Ning, ...
+Yicheng Zou, Dongsheng Zhu, Lin Zhu, Tong Zhu, Yunhua Zhou, ... , **Yichuan Ma**, Zerun Ma, Ningsheng Ma ...
 
 <!-- [![Code](https://img.shields.io/badge/Code-GitHub-181717?style=flat&labelColor=f6f6f6&logo=github&logoColor=181717)](https://github.com/FlyingDutchman26/FastMCTS) -->
 
