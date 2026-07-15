@@ -30,7 +30,8 @@ I'm currently looking for collaborations, feel free to contact me.
 
 # 🔥 News
 
-- *2026.04*: &nbsp;🎉🎉 Our paper **Timely Machine** is accepted by [ACL 2026](https://2026.aclweb.org/).
+- *2026.05*: &nbsp;🎉🎉 **Timely Machine** is selected as an oral paper at [ACL 2026](https://2026.aclweb.org/).
+- *2026.04*: &nbsp;🎉🎉 Our paper **Timely Machine** is accepted by [ACL 2026](https://2026.aclweb.org/). 
 - *2026.02*: We release [InternS1-Pro](https://huggingface.co/internlm/Intern-S1-Pro), an advanced scientific reasoning model with strong capabilities.
 - *2025.09*: &nbsp;🎉🎉 Our paper **Mixing Expert Knowledge** is accepted by [NIPS 2025](https://neurips.cc/).
 - *2025.08*: &nbsp;🎉🎉 Our paper **UnitCoder** is accepted by [EMNLP 2025](https://2025.emnlp.org/).
@@ -47,7 +48,7 @@ I'm currently looking for collaborations, feel free to contact me.
 
 ## First-author Papers
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2026</div><img src='images/paper_imgs/Timely_Machine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL, 2026(Oral)</div><img src='images/paper_imgs/Timely_Machine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Timely Machine: Awareness of Time Makes Test-Time Scaling Agentic](https://arxiv.org/abs/2601.16486)
